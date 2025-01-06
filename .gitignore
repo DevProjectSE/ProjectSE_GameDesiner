@@ -73,3 +73,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 *.vscode
+
+# External Assets
+/[Aa]ssets/_External/
